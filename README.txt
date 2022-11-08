@@ -9,6 +9,6 @@ Sometimes, boxes will drop bonus when destroyed.
 Find the stairs to progress to next level.
 
 Controls :
-- ZQSD : Move
-- Space : Place a bomb
-- Escape : return on previous menu
+- ZQSD to move
+- Space to place a bomb
+- Escape to return on previous menu
