@@ -11,4 +11,4 @@ Find the stairs to progress to next level.
 Controls :
 - ZQSD : Move
 - Space : Place a bomb
-- Escape to return on previous menu
+- Escape : return on previous menu
